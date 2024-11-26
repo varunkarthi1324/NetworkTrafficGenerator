@@ -13,3 +13,16 @@ It is a tool used to create and send synthetic network traffic to test and measu
     --Security Testing: To test network security measures by simulating attacks like DDoS, zero-day attacks, and other cybersecurity threats.
 
 Network traffic generators can be hardware-based, software-based, or a combination of both. They are essential for ensuring that networks can handle real-world conditions and remain robust under various scenarios.
+
+
+
+Compile this by :
+
+        javac TrafficServer.java
+        javac TrafficClient.java
+
+
+Run this by:  
+
+        java TrafficServer    =>First
+        java TrafficClient    =>Second
