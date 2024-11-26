@@ -1,0 +1,15 @@
+This is a prototype of how we create a network traffic using a local client and server.
+
+It is a tool used to create and send synthetic network traffic to test and measure the performance, scalability, and security of network devices and infrastructure
+
+    --Network Stress Testing: To determine how network devices handle high traffic loads and identify potential bottlenecks.
+
+    --Performance Testing: To measure metrics like bandwidth, latency, jitter, packet loss, and delay under various conditions.
+
+    --Protocol Testing: To validate the functionality and performance of specific network protocols.
+
+    --Application Testing: To simulate realistic application traffic and assess how well the network supports different applications.
+
+    --Security Testing: To test network security measures by simulating attacks like DDoS, zero-day attacks, and other cybersecurity threats.
+
+Network traffic generators can be hardware-based, software-based, or a combination of both. They are essential for ensuring that networks can handle real-world conditions and remain robust under various scenarios.
